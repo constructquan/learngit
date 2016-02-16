@@ -1,3 +1,4 @@
 adlkfjalsf
 add a new merge.
 very graph merge.
+test stash pop.
